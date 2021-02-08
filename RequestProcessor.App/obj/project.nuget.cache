@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hy8v9Oeq2ETtTf2g8lL3pq2vq54HZriJJ3KT8cDgm7LfD0HNIMrpWnIvLQT08A3vYoZTXbgpjRp98GIg+K+gOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emily\\Downloads\\pm-academy-demo-main (1)\\pm-academy-demo-main\\dotNet\\HomeWorks\\HomeWork7\\RequestProcessor\\RequestProcessor.App\\RequestProcessor.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emily\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
